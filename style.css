@@ -1,0 +1,184 @@
+.background{
+	padding:120px;
+	background: url("https://images.pexels.com/photos/733857/pexels-photo-733857.jpeg?cs=srgb&dl=pexels-tirachard-kumtanom-733857.jpg&fm=jpg");
+	background-repeat:no-repeat;
+	background-size: 100%;
+	background-position:center;
+
+}
+
+*{margin:0; padding:0;}
+
+body{
+	background:#DCE3E9;
+	
+
+}
+
+
+.container{
+	width:1170px;
+	margin:0 auto;
+	background:#fff;
+	display:block;
+	overflow:hidden;
+	
+}
+
+.left-side{
+	width:25%;
+	float:left;
+	background:#DCE3E9;
+	text-align:center;
+	padding:40px 10px;
+	box-sizing:border-box;
+}
+
+.left-side img{
+	border-radius:50%;
+	width:60%;
+	border: 2px solid #949599;
+}
+
+
+.s-content{
+	padding-top:40px;
+}
+
+.s-content h2{
+	background:#52535B;
+	padding:10px;
+	text-align:center;
+	color:#fff;
+	text-transform:uppercase;
+	font-size:20px;
+	
+}
+.s-info {
+	padding-top:10px;
+}
+
+.s-info h5{
+	font-size:15px;
+	font-size:15px;
+}
+
+.s-info h6{
+	font-size:15px;
+}
+
+.s-info p{
+	font-size:15px;
+}
+
+.s-order {
+	padding:10px;
+	
+	
+}
+
+.s-order ul {
+	padding-left:40px;
+	
+}
+.s-order ul li {
+	padding:10px;
+	font-size:18px;
+	text-align:left;
+	
+}
+.right-side{
+	float: right;
+    width: 65%;
+    box-sizing: border-box;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.right-side h1{
+	text-transform: uppercase;
+    padding: 10px;
+	padding-top:20px;
+	margin-right:80px;
+    border: 1px solid black;
+    letter-spacing: 3px;
+	
+}
+
+.right-side h4{
+    margin-top: 10px;
+	margin-right:80px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align:center;
+}
+
+.s-profile h2{
+	background:#DEE5EB;
+	text-transform: uppercase;
+    padding: 10px;
+	padding-top:20px;
+	margin-top:70px;
+	margin-bottom:40px;
+	margin-right:80px;
+    letter-spacing: 2px;
+    
+}
+
+ .s-profile p{
+    padding: 10px;
+	padding-top:5px;
+	margin-top:10px;
+	margin-bottom:15px;
+	margin-right:80px;
+    text-align: justify;
+    line-height:1.5;
+	
+}
+
+.s-profession h2{
+	background:#DEE5EB;
+	text-transform: uppercase;
+    padding: 10px;
+	padding-top:20px;
+	margin-top:40px;
+	margin-bottom:40px;
+	margin-right:80px;
+    letter-spacing: 2px;
+}
+
+.s-profession h3{
+	text-align: left;
+    text-transform: uppercase;
+    padding-top: 0px;
+    font-weight: bold;
+	font-size:20px;
+	margin-left:5px;
+	
+}
+
+.s-profession p{
+	text-align: left;
+	padding-top: 0px;
+	font-size:20px;
+	margin-left:5px;
+	
+	
+	
+}
+
+.s-p{
+    padding: 10px;
+	padding-top:5px;
+	margin-top:10px;
+	margin-bottom:15px;
+	margin-right:40px;
+    text-align: justify;
+    line-height:1.5;
+	font-size:16px;
+}
+
+.s-p ul{
+	padding-top: 10px;
+    padding-left: 50px;
+}
